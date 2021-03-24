@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271969388015",
+    "project_id": "authapp-ebd45",
+    "storage_bucket": "authapp-ebd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271969388015:android:39acce1ea5b01442a5621a",
+        "android_client_info": {
+          "package_name": "com.example.animoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271969388015-g9l3ifol4tlo60uehbdt1uqhja104tom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.animoto",
+            "certificate_hash": "11ed818ac02c85bd5cdbd6374fd2253a2c2f9410"
+          }
+        },
+        {
+          "client_id": "271969388015-4ab7e0gmdq9p170kan7bef16m4m1eme8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6F8zYCDWw1XdjHBU6saHGEIzvbLhKXJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271969388015-4ab7e0gmdq9p170kan7bef16m4m1eme8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
